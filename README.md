@@ -1,1 +1,1 @@
-# Intro_to_GitHub
+# intro-to-github
